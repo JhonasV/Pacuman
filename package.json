@@ -1,0 +1,17 @@
+{
+  "name": "pacuman",
+  "version": "1.0.0",
+  "description": "A game based in Pacman created with HTML5 Canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Game",
+    "pacman",
+    "html5",
+    "canvas"
+  ],
+  "author": "Nelson Jhonas Veras",
+  "license": "ISC"
+}
